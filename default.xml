@@ -14,7 +14,7 @@
 
   <!-- Includes -->
   <include name="aosp.xml" />
-  <include name="unlegacy.xml" />
+  <include name="modern.xml" />
   <include name="vendor.xml" />
 
   <!-- Include Devices -->
